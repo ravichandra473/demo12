@@ -1,5 +1,5 @@
 [INFO] Scanning for projects...
-[INFO] 
+[INFO] fgjhgjhgjhgjkgkjk
 [INFO] ------------------------------------------------------------------------
 [INFO] Building SampleJar 3.0
 [INFO] ------------------------------------------------------------------------
